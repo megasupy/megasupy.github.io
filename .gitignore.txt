@@ -1,1 +1,2 @@
 gitnotes.pdf
+gitnotestext.txt
